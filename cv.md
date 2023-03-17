@@ -7,4 +7,4 @@
 * JS
 
 [RS School](https://rs.school/)
-[Cat](/6369fc18cca723f6a53f8730d420e7ee.jpg)
+![Cat](/6369fc18cca723f6a53f8730d420e7ee.jpg)
